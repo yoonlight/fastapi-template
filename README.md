@@ -15,3 +15,9 @@ Start WEB Application
 ```shell
 uvicorn main:app --reload
 ```
+
+Start with docker-compose
+
+```shell
+docker-compose up -d
+```
